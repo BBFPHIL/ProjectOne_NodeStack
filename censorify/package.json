@@ -6,7 +6,7 @@
     "main":"censortext",
     "repository":{
         "type":"git",
-        "url":"https://github.com/BBFPHIL/FullStackNodeJS/tree/master/node_modules/censorify"
+        "url":"https://github.com/BBFPHIL/ProjectOne_NodeStack/tree/master/censorify"
     },
     "keywords": [
         "censor",
